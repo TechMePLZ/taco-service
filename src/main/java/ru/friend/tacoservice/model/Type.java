@@ -1,2 +1,5 @@
-package ru.friend.tacoservice.model;public enum Type {
+package ru.friend.tacoservice.model;
+
+public enum Type {
+    WRAP, PROTEIN, VEGGIES, CHEESE, SAUCE, SMETANA
 }
